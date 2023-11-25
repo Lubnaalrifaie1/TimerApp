@@ -17,7 +17,7 @@ use std::collections::HashMap;
 
 fn main() {
     println!("Tick! Tock!");
-    let matches = App::new("Pocketwatch")
+    let matches = App::new("TimerApp")
         .version("1.0")
         .about("Desktop Tick application.")
         .author("Jacob Pledger")
