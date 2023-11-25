@@ -1,10 +1,10 @@
 # TimerApp
 ## **TimerApp: A Rust Command-Line Timer**
 
-**Description:**
+# **Description:**
 TimerApp is a lightweight and easy-to-use command-line timer application written in Rust. It allows users to track the elapsed time between starting and stopping a timer. The primary focus is on simplicity and providing a straightforward interface for time tracking.
 
-**Features:**
+# **Features:**
 
 1. **Command-Line Interface:**
    - TimerApp is designed to be used through the command line, making it convenient for quick time tracking without the need for a graphical user interface.
@@ -30,12 +30,12 @@ TimerApp is a lightweight and easy-to-use command-line timer application written
 7. **Extendable:**
    - The code is structured to allow for easy extension and modification, making it a good starting point for additional features or customization.
 
-**Usage:**
+# **Usage:**
 - To start a timer: `TimerApp timer --start [--name <timer_name>]`
 - To stop a timer: `TimerApp timer --stop [--name <timer_name>]`
 - To check the elapsed time of a timer: `TimerApp timer --name <timer_name>`
 
-**Example:**
+# **Example:**
 ```bash
 $ TimerApp timer --start --name work
 Timer 'work' started.
