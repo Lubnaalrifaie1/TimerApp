@@ -1,8 +1,8 @@
 # TimerApp
-**TimerApp: A Rust Command-Line Timer**
+## **TimerApp: A Rust Command-Line Timer**
 
 **Description:**
-Pocketwatch is a lightweight and easy-to-use command-line timer application written in Rust. It allows users to track the elapsed time between starting and stopping a timer. The primary focus is on simplicity and providing a straightforward interface for time tracking.
+TimerApp is a lightweight and easy-to-use command-line timer application written in Rust. It allows users to track the elapsed time between starting and stopping a timer. The primary focus is on simplicity and providing a straightforward interface for time tracking.
 
 **Features:**
 
